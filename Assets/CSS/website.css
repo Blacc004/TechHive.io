@@ -312,7 +312,7 @@ button{
 
 .about__data{
   text-align: center;
-  margin-top: 40px;
+  margin-top: 15px;
 }
 
 .about__data h2{
@@ -339,7 +339,7 @@ button{
 }
 
 
-/*=============== TRICK OR TREAT ===============*/
+/*=============== Courses ===============*/
 .trick__container{
   grid-template-columns: repeat(2, 1fr);
   gap: 1.2rem;
@@ -715,13 +715,13 @@ input[type="radio"]{
 .footer__img-one{
   width: 100px;
   top: 6rem;
-  right: -1rem;
+  right: -3rem;
 }
 
 .footer__img-two{
   width: 110px;
   bottom: 4rem;
-  left: 7rem;
+  left: 5rem;
 }
 
 .footer__img-one:hover,
